@@ -6,7 +6,7 @@ title: About
 weight: 50
 ---
 
-Hugo is a static site engine written in Go.
+个人网站
 
 
 It makes use of a variety of open source projects including:
