@@ -1,7 +1,7 @@
-baseURL: http://localhost:1313/
+baseURL: https://xujianjun.netlify.app/
 languageCode: en
 defaultContentLanguage: en
-title: Even - A super concise theme for Hugo
+title: 徐建军
 preserveTaxonomyNames: yes
 enableRobotsTXT: yes
 enableEmoji: yes
@@ -25,20 +25,20 @@ sitemap:
 menu:
   main:
     - identifier: home
-      name: Home
+      name: 主页
       url: /
       weight: 10
     - identifier: archives
-      name: Archives
+      name: 档案
       url: /post/
       weight: 20
     - identifier: tags
-      name: Tags
+      name: 标签
       url: /tags/
       weight: 30
     - identifier: categories
       name: Categories
-      url: /categories/
+      url: 目录
       weight: 40
 params:
   archivePaginate: 50
@@ -82,7 +82,7 @@ params:
     - even
   linkToMarkDown: no
   livereUID: ''
-  logoTitle: Even
+  logoTitle: 徐建军
   mathjax: no
   mathjaxEnableAutoNumber: no
   mathjaxEnableSingleDollar: no
@@ -134,21 +134,9 @@ params:
   showLanguageSelector: no
   since: '2017'
   social:
-    a-email: mailto:your@email.com
-    b-stack-overflow: http://localhost:1313
-    c-twitter: http://localhost:1313
-    d-facebook: http://localhost:1313
-    e-linkedin: http://localhost:1313
-    f-google: http://localhost:1313
-    g-github: http://localhost:1313
-    h-weibo: http://localhost:1313
-    i-zhihu: http://localhost:1313
-    j-douban: http://localhost:1313
-    k-pocket: http://localhost:1313
-    l-tumblr: http://localhost:1313
-    m-instagram: http://localhost:1313
-    n-gitlab: http://localhost:1313
-    o-bilibili: http://localhost:1313
+    a-email: mailto:xujianjun_81@163.com
+    g-github: https://github.com/luoboqingcai81
+
   toc: yes
   uglyURLs: no
   utterances:
