@@ -2,19 +2,33 @@
 date: "2017-08-20T21:38:52+08:00"
 lastmod: "2017-08-28T21:41:52+08:00"
 menu: main
-title: About
+title: 关于我
 weight: 50
 ---
 
-个人网站
+
+## 关于我
+
+复旦大学生态学博士，课题方向为全球变化土壤呼吸热适应的分子机制研究
+
+## 擅长领域
+### 组学分析
+1. 微生物组学 （扩增子测序）
+2. 宏基因组学 （宏基因组测序）
+3. 转录组学    （转录组测序）
+### 数据分析
+1. 熟练tidyverse（R包）
+2. 统计学知识（混合线性模型，结构方差模型，逻辑回归）
+3. 服务器
+
+## 个人博客的初衷
+
+首先是自己有点懒散惯了，虽然平时看起来很努力，但是实际上乱七八糟，现在通过写文章
+来分享技术，同时会写一些热适应相关的文章的简要翻译。希望能让我变得严谨规范一点。
+
+## 交流
+
+网页下面有我的邮箱地址，如果有什么需要沟通，可以邮件联系
 
 
-It makes use of a variety of open source projects including:
-
-* [Cobra](https://github.com/spf13/cobra)
-* [Viper](https://github.com/spf13/viper)
-* [J Walter Weatherman](https://github.com/spf13/jWalterWeatherman)
-* [Cast](https://github.com/spf13/cast)
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
 

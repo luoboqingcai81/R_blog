@@ -1,4 +1,4 @@
-baseURL: https://xujianjun.netlify.app/
+baseURL: http://www.xujianjun.org/
 languageCode: en
 defaultContentLanguage: en
 title: 徐建军
@@ -37,8 +37,8 @@ menu:
       url: /tags/
       weight: 30
     - identifier: categories
-      name: Categories
-      url: 目录
+      name: 目录
+      url: /categories/
       weight: 40
 params:
   archivePaginate: 50
